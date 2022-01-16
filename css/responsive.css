@@ -1,0 +1,34 @@
+
+/***************************************************************************************************/
+@media (max-width: 479px) {
+    h2 {
+        font-size: 35px;
+        line-height:52px;
+    }
+    
+    h3 {
+        font-size: 25px;
+        line-height:37px;
+    }
+    
+    blockquote p {
+        font-size: 17px;
+        line-height:29px;
+    }
+    
+    #intro {
+        height:500px;
+  width:100%;
+  background-color: white;
+/*padding-top: 10%;*/
+  overflow-y:hidden;
+  text-align:center;
+  position:relative;
+
+
+padding-bottom:72px;    
+    }
+} 
+    
+   
+    
